@@ -3,9 +3,4 @@ channels:
   - defaults
 dependencies:
   - python=3.8
-  - scikit-learn
-  - numpy
-  - scipy
-  - ipywidgets
-  - ipython
-  - pandas
+  - pyexplainer
