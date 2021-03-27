@@ -9,4 +9,6 @@ dependencies:
   - ipywidgets
   - ipython
   - pandas
-  - pyexplainer
+  - pip
+  - pip:
+    - pyexplainer
