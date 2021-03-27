@@ -1,4 +1,4 @@
-name: pyexplainer_notebook
+name: pyexplainer_quickstart_notebook
 channels:
   - defaults
 dependencies:
